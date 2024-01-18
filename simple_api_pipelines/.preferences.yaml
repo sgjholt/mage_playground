@@ -1,0 +1,13 @@
+sync_config:
+  access_token_secret_name: mage_git_access_token
+  auth_type: https
+  branch: main
+  email: 15035434+sgjholt@users.noreply.github.com
+  enable_git_integration: null
+  remote_repo_link: git@github.com:sgjholt/mage_playground.git
+  repo_path: /home/src
+  sync_on_pipeline_run: false
+  sync_on_start: true
+  sync_submodules: null
+  type: null
+  username: sgjholt
